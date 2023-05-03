@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+}
+
+.button {
+    background-color: red;
+    border: 1px solid black;
+    color: white;
+    padding: 100px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 200px;
+}
