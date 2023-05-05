@@ -1,5 +1,5 @@
 var colors = ["red", "yellow", "green"];
-		var currentColorIndex = 0;
+		let currentColorIndex = 0;
 
 		function changeColor() {
 			currentColorIndex = (currentColorIndex + 1) % colors.length;
